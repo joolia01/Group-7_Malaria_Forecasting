@@ -41,6 +41,7 @@ APA Citation: World Health Organization. (n.d.). Gho | by category | confirmed m
 - Creation of Streamlit Application
 - Run the Streamlit Application by running the following command- streamlit run deployment.py
 - Access the Streamlit App by opening a web browser and navigating to the URL provided by the Streamlit command
-      
 
+# Video Link
+- Video link- https://youtu.be/xOmSqd-uLQs
     
